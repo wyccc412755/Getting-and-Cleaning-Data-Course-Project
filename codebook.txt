@@ -1,3 +1,22 @@
+The code book that describes data, variables, the data, and any transformations
+============================================================
+All dataframes are given below:
+activitylabels;
+features;
+my_data;
+my_MeanStandard;
+my_MeanStandard_activitynames;
+my_test;
+my_tidy_data;
+my_train;
+test_s;
+test_x;
+test_y;
+train_s;
+train_x;
+train_y;
+ 
+============================================================
 All parameters are given below:
 
   [1] "activity_ID"                          "subject_ID"                          
